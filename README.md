@@ -1,5 +1,5 @@
 # Stock
-###Consumer Discretionery
+### Consumer Discretionery
 #### Home Depot
 ##### Wait for the annual report of 2025.
 ##### Data records in Millions
