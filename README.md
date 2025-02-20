@@ -2,7 +2,7 @@
 ### Consumer Discretionery
 #### Home Depot
   Wait for the annual report of 2025.
----  Data records in Millions.
+<br>  Data records in Millions.
   For Q4 report, take the features of annual report , minus to the sum of features of Q1, Q2, Q3
     Apllied for Net sales/ Net Revenue, Net Income, EPS
   Total debt =  short-term debt + Current installments of long-term debt + current operating lease liabilities + long-term debt + long-term operating lease liabilities
