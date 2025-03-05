@@ -75,3 +75,33 @@
 <br>   For Q4 report, take the features of annual report , minus to the sum of features of Q1, Q2, Q3
 <br>    Apllied for Net sales/ Net Revenue, Net Earnings (Net Income), EPS. In order to find the annual report, please find them on direct webiste of Clorox Co.
 <br>  Total debt = "Note and loan payable" + "Current operating lease liabilities" + "Long-term debt" + "Long-term operating lease liabilities"
+
+### Energy
+
+#### Exxon Mobil (XOM)
+  Data records in Millions, shares outstandings in ones.
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
+<br>    Apllied for Total Net sales/ Net Revenue, Net Income, EPS
+<br>  For Net income, find "Net income (loss) attributable to ExxonMobil". For total Net Sales/Net Revenue, find "Total revenues and other income". 
+<br>  Total debt = long-term debt + Notes and loans payable
+
+#### Chrevon (CVX)
+  Data records in Millions, shares outstandings in ones.
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
+<br>    Apllied for Total Net sales/ Net Revenue, Net Income, EPS
+<br>  For Net income, find "Net Income (Loss)Attributable to Chevron Corporation".
+<br>  Total debt = Long-term debt + short term debt
+#### Shell PLC (SHEL)
+  Data records in thoundsands, shares outstandings in ones. Data report directly in the website of Shell. before Q2 2022, we combine the shares common A and B. We find EPS under "Earning per share per ADS"
+<br>  For Total debt, we find Find "total debt" in APM sheet
+#### Marathon Petroleum Corporation (MPC)
+  Data records in Millions, shares outstandings in ones. Data is found in directly website
+<br>   Q4 is found in directly website
+<br>  For Net Sales/ Net revenue, find "Sales and other operating revenue".
+<br>  Total debt = Debt due within one year + Operating lease liabilities + Long-term debt + Long-term operating lease liabilities
+#### Halliburton Co (HAL)
+  Data records in Millions, shares outstandings in ones.
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
+<br>    Apllied for Total Net sales/ Net Revenue, Net Income, EPS
+<br>  For Net income, find "Net income attributable to company".
+<br>  Total debt = "Current portion of operating lease liabilities" + "Long-term debt" + "Operating lease liabilities"
