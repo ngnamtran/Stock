@@ -105,3 +105,49 @@
 <br>    Apllied for Total Net sales/ Net Revenue, Net Income, EPS
 <br>  For Net income, find "Net income attributable to company".
 <br>  Total debt = "Current portion of operating lease liabilities" + "Long-term debt" + "Operating lease liabilities"
+
+### Ultities
+
+#### EDominion Energy Inc (D)
+  Data records in thoundasnd, shares outstandings in ones.
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
+<br>    Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income (Net Income Attributable to Dominion Energy), EPS
+<br>  Total debt = "Securities due within one year" + "Supplemental credit facility borrowings" + "Total long-term debt" + "Short term debt"
+
+#### NextEra Energy Inc (NEE)
+  Data records in Thoundsands, shares outstandings in ones.
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
+<br>    Apllied for Total Net sales/ Net Revenue , Net Income, EPS
+<br>  For Net income, find "Net income attributable to NEE". For total Net sales/ net revenue, find "Operating revenues"
+<br>  Total debt = Commercial paper + Other short-term debt + Current portion of long-term debt + long-term debt
+<br>  The company has stock split 4 for 1 on 2020. Therefore in 2020 data and previous that time, shares outstanding multiply to 4, and diluted EPS divide to 4 in order to keep the consistency
+#### Duke Energy Corp (DUK)
+  Data records in Millions, shares outstandings in ones.
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
+<br>    Apllied for Total Net sales/ Net Revenue, Net Income, EPS
+<br>   For Net income, find "Net Income Available to Duke Energy Corporation Common Stockholders". For total Net sales/ net revenue, find "Total Operating revenues"
+<br>   Total liabilities = total Liabilities and Equity - Total equity
+<br>  Total debt = Long-term Debt + Notes payable and commercial paper + Current maturities of long-term debt + Operating lease liabilities
+
+#### American Electric Power Company Inc (AEP)
+  Data records in Thoundsands, shares outstandings in ones.
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
+<br>    Apllied for Total Net sales/ Net Revenue , Net Income, EPS
+<br>  For Net income, find "Earnings attributable to AEP Common Shareholders"
+<br>  Total debt = Total Short-term debt + Long-term Debt Due Within One Year + Obligations Under Operating Lease + Long-term Debt + Obligations Under Operating Lease
+
+#### Eversource Energy (ES)
+  Data records in Thoundsands, shares outstandings in ones.
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
+<br>    Apllied for Total Net sales/ Net Revenue , Net Income, EPS
+<br>  For Net income, find "Net (Loss)/ Income Attributable to Common Shareholders". For total Net sales/ net revenue, find "Operating revenues"
+<br>  Total debt = "Notes Payable" + "Long-term Debt-Current Portion" + "Rate Reduction Bonds - Current Portion" +"Long-term Debt" + "Rate Reduction Bonds"
+<br>  Total Liabilities = Total Liabilities and Capitalization - Common Shareholder's Equity
+
+#### PG&E Corp (PCG)
+  Data records in Millions, shares outstandings in ones.
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
+<br>    Apllied for Total Net sales/ Net Revenue, Net Income, EPS
+<br>   For total Net sales/ net revenue, find "Total Operating revenues"
+<br>   Total liabilities = Total current liabilities + Total noncurrent liabilities
+<br>  Total debt = Total Debt = Short-term borrowings + Long-term debt, classified as current + Operating lease liabilities (under current liabilities) + Financing lease liabilities (under current liabilities) + Long-term debt + Regulatory liabilities + Operating lease liabilities (under noncurrent liabilities) + Financing lease liabilities (under noncurrent liabilities)
