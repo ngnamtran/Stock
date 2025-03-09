@@ -108,9 +108,9 @@
 
 ### Ultities
 
-#### EDominion Energy Inc (D)
-  Data records in thoundasnd, shares outstandings in ones.
-<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
+#### Dominion Energy Inc (D)
+  Data records in thoundasnd, shares outstanding in ones.
+<br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year
 <br>    Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income (Net Income Attributable to Dominion Energy), EPS
 <br>  Total debt = "Securities due within one year" + "Supplemental credit facility borrowings" + "Total long-term debt" + "Short term debt"
 
@@ -151,3 +151,36 @@
 <br>   For total Net sales/ net revenue, find "Total Operating revenues"
 <br>   Total liabilities = Total current liabilities + Total noncurrent liabilities
 <br>  Total debt = Total Debt = Short-term borrowings + Long-term debt, classified as current + Operating lease liabilities (under current liabilities) + Financing lease liabilities (under current liabilities) + Long-term debt + Regulatory liabilities + Operating lease liabilities (under noncurrent liabilities) + Financing lease liabilities (under noncurrent liabilities)
+
+
+### Industrials
+
+#### RTX Corporation (RTX)
+  Data records in thousands, shares outstanding in ones.
+<br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year
+<br>    Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income, EPS
+<br>  For Net income, find "Net income from operations".
+<br>  Total debt find directly in financial statement
+
+#### FedEx Corp (FDX)
+  Data records in millions, shares outstanding in ones.
+<br>   For Q2 report, take the features of the annual report, minus the sum of features of Q1 of this year and Q3, Q4 of previous year
+<br>    Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income, EPS
+<br>  For Net income, find "Net income from operations".
+<br>  Total liabilities = total current liabilities + Long-term debt, less current portion + Total other long-term liabilities
+<br>  Total debt= Current portion of long-term debt + Operating lease liabilities + Long-term debt, less current portion + Operating lease liabilities
+
+#### L3Harris Technologies Inc (LHX)
+  Data records in millions, shares outstanding in ones. L3Harris Technologies announced the successful merger completion between Harris Corporation and L3 Technologies on June 29, 2019. Therefore, the annual report of 2019 of the old company is found directly on their website.
+<br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year
+<br>    Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income, EPS
+<br>  Total deb t= Short-term debt + Current portion of long-term debt, net + long-term debt, net 
+#### Tetra Tech Inc (TTEK)
+  Data records in thousands, shares outstanding in ones.
+<br>   For Q3 report, take the features of the annual report, minus the sum of features of Q1, Q2, of this year and Q4 of previous year.
+<br>    Apllied for Total Net Sales/ Net Revenue (Operating Revenue), Net Income, EPS
+<br>  For Net income, find "Net income from operations".
+<br>  Total debt = Short-term lease, operating leases + current portion of long-term debt + Long-term debt + Long-term lease liabilities, operating leases
+
+#### U-Haul Holding Co (UHAL)
+Data is taken from [Macrotrend](https://www.macrotrends.net/stocks/charts/UHAL/u-haul-holding/balance-sheet?freq=Q) website since their financial statement doesn't have current assets and current liabilities data. 
