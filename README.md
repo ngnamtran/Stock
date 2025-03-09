@@ -184,3 +184,5 @@
 
 #### U-Haul Holding Co (UHAL)
 Data is taken from [Macrotrend](https://www.macrotrends.net/stocks/charts/UHAL/u-haul-holding/balance-sheet?freq=Q) website since their financial statement doesn't have current assets and current liabilities data. 
+<br>  Total debt = Notes, loans and finance leases payable, net + Operating lease liabilities
+
