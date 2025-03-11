@@ -109,7 +109,7 @@
 ### Ultities
 
 #### Dominion Energy Inc (D)
-  Data records in thoundasnd, shares outstanding in ones.
+  Data records in thoundasnd.
 <br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year
 <br>    Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income (Net Income Attributable to Dominion Energy), EPS
 <br>  Total debt = "Securities due within one year" + "Supplemental credit facility borrowings" + "Total long-term debt" + "Short term debt"
