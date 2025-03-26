@@ -121,46 +121,46 @@
 ### Ultities
 
 #### Dominion Energy Inc (D)
-  Data records in thoundasnd.
-<br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year
-<br>    Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income (Net Income Attributable to Dominion Energy), EPS
+  Data records in Thoundsands.
+<br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year.Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income (Net Income Attributable to Dominion Energy)
+<br>   In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
 <br>  Total debt = "Securities due within one year" + "Supplemental credit facility borrowings" + "Total long-term debt" + "Short term debt"
 
 #### NextEra Energy Inc (NEE)
-  Data records in Thoundsands, shares outstandings in ones.
-<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
-<br>    Apllied for Total Net sales/ Net Revenue , Net Income, EPS
+  Data records in Thoundsands.
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue , Net Income
+<br>   In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
 <br>  For Net income, find "Net income attributable to NEE". For total Net sales/ net revenue, find "Operating revenues"
 <br>  Total debt = Commercial paper + Other short-term debt + Current portion of long-term debt + long-term debt
-<br>  The company has stock split 4 for 1 on 2020. Therefore in 2020 data and previous that time, shares outstanding multiply to 4, and diluted EPS divide to 4 in order to keep the consistency
+<br>  The company has stock split 4 for 1 on 2020. Therefore in 2020 data and previous that time, shares outstanding multiply to 4, and diluted EPS divide to 4 in order to keep the consistency. Also, to calculate the EPS of Q4, before that time, we multiply  diluted weighted average common shares to 4 first then divide net income to it.
 #### Duke Energy Corp (DUK)
-  Data records in Millions, shares outstandings in ones.
-<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
-<br>    Apllied for Total Net sales/ Net Revenue, Net Income, EPS
+  Data records in Thoundsands.
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue, Net Income
+<br>   In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
 <br>   For Net income, find "Net Income Available to Duke Energy Corporation Common Stockholders". For total Net sales/ net revenue, find "Total Operating revenues"
 <br>   Total liabilities = total Liabilities and Equity - Total equity
 <br>  Total debt = Long-term Debt + Notes payable and commercial paper + Current maturities of long-term debt + Operating lease liabilities
 
 #### American Electric Power Company Inc (AEP)
-  Data records in Thoundsands, shares outstandings in ones.
-<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
-<br>    Apllied for Total Net sales/ Net Revenue , Net Income, EPS
+  Data records in Thoundsands
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue , Net Income
+<br>   In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
 <br>  For Net income, find "Earnings attributable to AEP Common Shareholders"
 <br>  Total debt = Total Short-term debt + Long-term Debt Due Within One Year + Obligations Under Operating Lease + Long-term Debt + Obligations Under Operating Lease
 
 #### Eversource Energy (ES)
   Data records in Thoundsands, shares outstandings in ones.
-<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
-<br>    Apllied for Total Net sales/ Net Revenue , Net Income, EPS
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue , Net Income
+<br>   In order to find the Q4 EPS, EPS =  Net Income  of Q4 / diluted weighted average common shares
 <br>  For Net income, find "Net (Loss)/ Income Attributable to Common Shareholders". For total Net sales/ net revenue, find "Operating revenues"
 <br>  Total debt = "Notes Payable" + "Long-term Debt-Current Portion" + "Rate Reduction Bonds - Current Portion" +"Long-term Debt" + "Rate Reduction Bonds"
 <br>  Total Liabilities = Total Liabilities and Capitalization - Common Shareholder's Equity
 
 #### PG&E Corp (PCG)
   Data records in Millions, shares outstandings in ones.
-<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
-<br>    Apllied for Total Net sales/ Net Revenue, Net Income, EPS
-<br>   For total Net sales/ net revenue, find "Total Operating revenues"
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue, Net Income.
+<br>   In order to find EPS, EPS =  "(Net Income - Preferred stock dividend requirement)" or "Income Available for Common Shareholders"/ diluted weighted average common shares
+<br>   For total Net sales/ net revenue, find "Total revenues"
 <br>   Total liabilities = Total current liabilities + Total noncurrent liabilities
 <br>  Total debt = Total Debt = Short-term borrowings + Long-term debt, classified as current + Operating lease liabilities (under current liabilities) + Financing lease liabilities (under current liabilities) + Long-term debt + Regulatory liabilities + Operating lease liabilities (under noncurrent liabilities) + Financing lease liabilities (under noncurrent liabilities)
 
