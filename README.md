@@ -45,37 +45,43 @@
 #### DexCom Inc (DXCM)
   Data records in thousands
 <br>  For Q4 report, take the features of annual report , minus to the sum of features of Q1, Q2, Q3
-<br>    Apllied for Total Net sales/ Net Revenue, Net Income, EPS
+<br>    Apllied for Total Net sales/ Net Revenue, Net Income
+<br>   In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
 <br>  Total liabilities = "Total liabilities and stockholders’ equity" - "Total stockholders’ equity"
 <br>  Total debt =  "Short-term operating lease liabilities" + "Long-term senior convertible notes" + "long-term operating lease liabilities" (if they have Current portion of long-term senior convertible notes, include it).
 <br>  DexCom's stock split occurred on June 13, 2022, and the split was 4-for-1. Therefore, for diluted EPS before that time, I divided them to 4, and shares outstanding was multiplied to 4 in order to keep the consistency. Also, to calculate the EPS of Q4, before that time, we multiply  diluted weighted average common shares to 4 first then divide net income to it.
 ### Consumer Staples
 
 #### Costco (COST)
-  Data records in Millions, shares outstandings in ones.
+  Data records in thousands
 <br>  Costco has a different time of fiscal year, it runs from September 1 through August 31. For Q3 report, take the features of annual report, minus to the sum of features of Q4 of previous year, Q1, Q2 of this year
 <br>    Apllied for Total Net sales/ Net Revenue, Net Income, EPS
+<br>   In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
 <br>  for Net income, find "Net income attributable to Costco"
 <br>  Total debt = "Long-term debt, excluding current portion" + "Long-term operating lease liabilities" + "Current portion of long term debt"
 #### Hershey Co (HSY)
-  Data records in Thoundsands, except shares data.
+  Data records in thousands
 <br>  For Q4 report, take the features of annual report , minus to the sum of features of Q1, Q2, Q3
-<br>    Apllied for Net sales/ Net Revenue, Net Income, EPS
+<br>    Apllied for Net sales/ Net Revenue, Net Income
+<br>   In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
 <br>  Total debt =  "total lease liabilities" + "long-term debt" + "Current portion of long-term debt" + "Short-term debt"
 #### Keurig Dr Pepper Inc (KDP)
-  Data records in Millions, except shares data
+  Data records in thousands
 <br>  For Q4 report, take the features of annual report , minus to the sum of features of Q1, Q2, Q3
-<br>    Apllied for Net sales/ Net Revenue, Net Income, EPS
+<br>    Apllied for Net sales/ Net Revenue, Net Income
+<br>   In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
 <br>  Total debt =  Short-term borrowings and current portion of long-term obligations + Long-term obligations
 <br>  In July 2018, Keurig Green Mountain merged with Dr Pepper Snapple Group to form Keurig Dr Pepper (KDP). Therefore, we see the dramaticall changes in their daata. 
 #### E.L.F Beauty, Inc (HSY)
 <br>  Data records in Thoundsands.
 <br>  For Q1 report, take the features of annual report , minus to the sum of features of Q4, Q3, Q2 of previous year
-<br>    Apllied for Net sales/ Net Revenue, Net Income, EPS
+<br>    Apllied for Net sales/ Net Revenue, Net Income
+<br>   In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
 <br>  Total debt =  "Current portion of operating lease liabilities" in Note 5—Accrued expenses and other current liabilities + "Current portion of long-term debt" in current asset + "Long-term debt" + "Long-term operating lease obligations"
 #### Clorox Co (CLX)
 <br>  Data records in Millions, except shares data.
-<br>   For Q4 report, take the features of annual report , minus to the sum of features of Q1, Q2, Q3
+<br>   For Q4 report, take the features of annual report , minus to the sum of features of Q1, Q2, Q3. Apllied for Net sales/ Net Revenue, Net Income
+<br>   In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
 <br>    Apllied for Net sales/ Net Revenue, Net Earnings (Net Income), EPS. In order to find the annual report, please find them on direct webiste of Clorox Co.
 <br>  Total debt = "Note and loan payable" + "Current operating lease liabilities" + "Long-term debt" + "Long-term operating lease liabilities"
 
