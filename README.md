@@ -168,14 +168,13 @@
 ### Industrials
 
 #### RTX Corporation (RTX)
-  Data records in thousands, shares outstanding in ones.
+  Data records in thousands
 <br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year
 <br>    Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income, EPS
-<br>  For Net income, find "Net income from operations".
-<br>  Total debt find directly in financial statement
-
+<br>  For Net income, find "Net (loss) income attributable to common shareowners".
+<br>  Total debt find directly in financial statement. In order to find data before the changes, I found the old data on directly website
 #### FedEx Corp (FDX)
-  Data records in millions, shares outstanding in ones.
+  Data records in thousands.
 <br>   For Q2 report, take the features of the annual report, minus the sum of features of Q1 of this year and Q3, Q4 of previous year
 <br>    Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income, EPS
 <br>  For Net income, find "Net income from operations".
