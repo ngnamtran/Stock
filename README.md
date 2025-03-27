@@ -169,27 +169,27 @@
 
 #### RTX Corporation (RTX)
   Data records in thousands
-<br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year
-<br>    Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income, EPS
+<br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income
+<br>   In order to find the Q4 EPS, EPS =  Net Income  of Q4 / diluted weighted average common shares
 <br>  For Net income, find "Net (loss) income attributable to common shareowners".
 <br>  Total debt find directly in financial statement. In order to find data before the changes, I found the old data on directly website
 #### FedEx Corp (FDX)
   Data records in thousands.
-<br>   For Q2 report, take the features of the annual report, minus the sum of features of Q1 of this year and Q3, Q4 of previous year
-<br>    Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income, EPS
+<br>   For Q2 report, take the features of the annual report, minus the sum of features of Q1 of this year and Q3, Q4 of previous year. Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income
+<br>   In order to find the Q4 EPS, EPS =  Net Income  of Q4 / diluted weighted average common shares
 <br>  For Net income, find "Net income from operations".
 <br>  Total liabilities = total current liabilities + Long-term debt, less current portion + Total other long-term liabilities
 <br>  Total debt= Current portion of long-term debt + Operating lease liabilities + Long-term debt, less current portion + Operating lease liabilities
 
 #### L3Harris Technologies Inc (LHX)
   Data records in millions, shares outstanding in ones. L3Harris Technologies announced the successful merger completion between Harris Corporation and L3 Technologies on June 29, 2019. Therefore, the annual report of 2019 of the old company is found directly on their website.
-<br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year
-<br>    Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income, EPS
+<br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income, EPS
 <br>  Total deb t= Short-term debt + Current portion of long-term debt, net + long-term debt, net 
 #### Tetra Tech Inc (TTEK)
   Data records in thousands, shares outstanding in ones.
-<br>   For Q3 report, take the features of the annual report, minus the sum of features of Q1, Q2, of this year and Q4 of previous year.
-<br>    Apllied for Total Net Sales/ Net Revenue (Operating Revenue), Net Income, EPS
+<br>   For Q3 report, take the features of the annual report, minus the sum of features of Q1, Q2, of this year and Q4 of previous year. Apllied for Total Net Sales/ Net Revenue (Operating Revenue), Net Income
+<br>   In order to find the Q3 EPS, EPS =  Net Income  of Q3 / diluted weighted average common shares
+<br>   The company has stock split 5 for 1 on september 2024. Therefore in 2024 data and previous that time, shares outstanding multiply to 5, and diluted EPS divide to 5 in order to keep the consistency. Also, to calculate the EPS of Q3, before that time, we multiply  diluted weighted average common shares to 5 first then divide net income to it.
 <br>  For Net income, find "Net income from operations".
 <br>  Total debt = Short-term lease, operating leases + current portion of long-term debt + Long-term debt + Long-term lease liabilities, operating leases
 
