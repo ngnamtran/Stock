@@ -195,6 +195,8 @@
 
 #### U-Haul Holding Co (UHAL)
 Data is taken from [Macrotrend](https://www.macrotrends.net/stocks/charts/UHAL/u-haul-holding/balance-sheet?freq=Q) website since their financial statement doesn't have current assets and current liabilities data for current assets and current liabilities. 
-<br>  Amerco, the parent company of U-Haul, underwent a 10-to-1 stock split and a name change to U-Haul Holding Company
+<br>  In order to find net income, Find "Earnings available to common stockholders". The fiscal year ends on March of each year. 
+<br>   In order to find the Q1 EPS, EPS =  Net Income  of Q1 / diluted weighted average common shares
+<br>  Amerco, the parent company of U-Haul, underwent a 10-to-1 stock split and a name change to U-Haul Holding Company starting November 2022.
 <br>  Total debt = Notes, loans and finance leases payable, net + Operating lease liabilities
 
