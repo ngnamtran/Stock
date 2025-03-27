@@ -194,6 +194,7 @@
 <br>  Total debt = Short-term lease, operating leases + current portion of long-term debt + Long-term debt + Long-term lease liabilities, operating leases
 
 #### U-Haul Holding Co (UHAL)
-Data is taken from [Macrotrend](https://www.macrotrends.net/stocks/charts/UHAL/u-haul-holding/balance-sheet?freq=Q) website since their financial statement doesn't have current assets and current liabilities data. 
+Data is taken from [Macrotrend](https://www.macrotrends.net/stocks/charts/UHAL/u-haul-holding/balance-sheet?freq=Q) website since their financial statement doesn't have current assets and current liabilities data for current assets and current liabilities. 
+<br>  Amerco, the parent company of U-Haul, underwent a 10-to-1 stock split and a name change to U-Haul Holding Company
 <br>  Total debt = Notes, loans and finance leases payable, net + Operating lease liabilities
 
