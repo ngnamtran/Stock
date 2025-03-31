@@ -199,4 +199,83 @@ Data is taken from [Macrotrend](https://www.macrotrends.net/stocks/charts/UHAL/u
 <br>   In order to find the Q1 EPS, EPS =  Net Income  of Q1 / diluted weighted average common shares
 <br>  Amerco, the parent company of U-Haul, underwent a 10-to-1 stock split and a name change to U-Haul Holding Company starting November 2022.
 <br>  Total debt = Notes, loans and finance leases payable, net + Operating lease liabilities
+### Information Technology
+#### Apple (AAPL)
+<br> Apple's Fiscal year starts from October and ends in September
+<br> For Q4 of every year, Net Sales/Total Revenue, Net Income are calcualted as follows Annual - (Q1 + Q2+ Q3)
+<br> EPS for Q4 is calculated as Net Income of Q4/ Shares used in computing earnings per share (Diluted)
+<br> 4-1 stock split happened in Q4 2020. In order to maintain consistency, the previous quarter's shares outstanding ahve been multipled by 4 and EPS is divided by 4.
+<br> Total Debt = Commercial Paper + Term Debt (Current Liabilities) + Term Debt (Non-current Liabilities)
+
+#### Service Now (NOW)
+<br> Fiscal year starts from January and ends in December.
+<br> For Q4 of every year, Net Sales/Total Revenue, Net Income are calcualted as follows Annual - (Q1 + Q2+ Q3)
+<br> EPS for Q4 is calculated as Net Income of Q4/ Weighted-average shares (Diluted)
+<br> Total Debt = Current Portion of OPerating Lease Liabilities + OPerating Lease Liabilities, less current portion + Long-term Debt, net
+
+#### Microsoft (MSFT)
+<br> Fiscal year starts from July and ends in September
+<br> For Q4 of every year, Net Sales/Total Revenue, Net Income are calcualted as follows Annual - (Q1 + Q2+ Q3)
+<br> EPS for Q4 is calculated as Net Income of Q4/ Weighted-average shares (Diluted)
+<br> Total Debt = Long term Debt + Short Term Debt + Operating Lease Liabilities
+
+### Communication Services
+#### Alphabet (GOOG, GOOGL)
+<br> Fiscal year starts from January and ends in December.
+<br> For Q4 of every year, Net Sales/Total Revenue, Net Income are calcualted as follows Annual - (Q1 + Q2+ Q3)
+<br> EPS for Q4 is calculated as Net Income of Q4/ Weighted-average shares (Diluted) of Class A, B & C
+<br> 20 to 1 stock split happened in Q2 2022. For consistency, all the previous quarters Shares Outstanding have been multiplied by 20 and EPS has been divided by 20.
+<br> Total Debt = Current Operating Lease Liabilities + Long Term Debt + Operating Lease Liabilities
+
+#### Netflix (NFLX)
+<br> Fiscal year starts from January and ends in December.
+<br> For Q4 of every year, Net Sales/Total Revenue, Net Income are calcualted as follows Annual - (Q1 + Q2+ Q3)
+<br> EPS for Q4 is calculated as Net Income of Q4/ Weighted-average shares (Diluted)
+<br> Total Debt = Short Term Debt + Long Term Debt
+
+#### Yelp (YELP)
+<br> Fiscal year starts from January and ends in December.
+<br> For Q4 of every year, Net Sales/Total Revenue, Net Income are calcualted as follows Annual - (Q1 + Q2+ Q3)
+<br> EPS for Q4 is calculated as Net Income of Q4/ Weighted-average shares (Diluted)
+<br> Total Debt = Operating lease liabilities — current	+ Operating lease liabilities — long-term	
+
+### Materials
+#### Ecolab Inc (ECL)
+<br> Fiscal year starts from January and ends in December.
+<br> For Q4 of every year, Net Sales/Total Revenue, Net Income are calcualted as follows Annual - (Q1 + Q2+ Q3)
+<br> EPS for Q4 is calculated as Net Income of Q4/ Weighted-average shares (Diluted)
+<br> Total Debt = Short-term debt + Long-term debt + Operating lease liabilities + perating lease liabilities (Discontinued Operations)
+
+#### Sherwin Williams (SHW)
+<br> Fiscal year starts from January and ends in December.
+<br> For Q4 of every year, Net Sales/Total Revenue, Net Income are calcualted as follows Annual - (Q1 + Q2+ Q3)
+<br> EPS for Q4 is calculated as Net Income of Q4/ Weighted-average shares (Diluted)
+<br> 3-for-1 stock split happened in Q1 2021. To maintain consistency, the previous quarters Shares Outstanding were multiplied by 3 and EPS was divided by 3.
+<br> Total Debt = Short-term borrowings	+ Current portion of long-term debt	+ Current portion of operating lease liabilities	+ Long-term debt	+ Long-term operating lease liabilities	
+
+#### Southern Cooper Corporation (SCCO)
+<br> Fiscal year starts from January and ends in December.
+<br> For Q4 of every year, Net Sales/Total Revenue, Net Income are calcualted as follows Annual - (Q1 + Q2+ Q3)
+<br> EPS for Q4 is calculated as Net Income of Q4/ Weighted-average shares (Diluted)
+<br> Total Debt = Current portion of long-term debt + Lease liabilities current + Long-term debt + Lease Liabilities
+
+#### Cleveland Cliffs (CLF)
+<br> Fiscal year starts from January and ends in December.
+<br> For Q4 of every year, Net Sales/Total Revenue, Net Income are calcualted as follows Annual - (Q1 + Q2+ Q3)
+<br> EPS for Q4 is calculated as Net Income of Q4/ Average number of shares (Diluted)
+<br> Total Debt = Long Term Debt
+
+#### Linde PLC (LIN)
+<br> Fiscal year starts from January and ends in December.
+<br> For Q4 of every year, Net Sales/Total Revenue, Net Income are calcualted as follows Annual - (Q1 + Q2+ Q3)
+<br> EPS for Q4 is calculated as Net Income of Q4/ Weighted average number of shares (Diluted)
+<br> Total Debt = Short-term debt + Current portion of long-term debt + Long-term debt
+
+
+
+
+
+
+
+
 
