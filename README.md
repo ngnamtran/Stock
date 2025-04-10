@@ -90,7 +90,7 @@
 #### Exxon Mobil (XOM)
   Data records in thoundsands
 <br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year
-<br>    Apllied for Total Net sales/ Net Revenue, Net Income, EPS
+<br>    Apllied for Total Net sales/ Net Revenue, Net Income
 <br>   In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
 <br>  For Net income, find "Net income (loss) attributable to ExxonMobil". For total Net Sales/Net Revenue, find "Total revenues and other income". 
 <br>  Total debt = long-term debt + Notes and loans payable
@@ -117,9 +117,7 @@
 <br>   In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares, 2018, 2017 found directly in report
 <br>  For Net income, find "Net income attributable to company".
 <br>  Total debt = "Current portion of operating lease liabilities" + "Long-term debt" + "Operating lease liabilities"
-
 ### Ultities
-
 #### Dominion Energy Inc (D)
   Data records in Thoundsands.
 <br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year.Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income (Net Income Attributable to Dominion Energy)
@@ -149,7 +147,7 @@
 <br>  Total debt = Total Short-term debt + Long-term Debt Due Within One Year + Obligations Under Operating Lease + Long-term Debt + Obligations Under Operating Lease
 
 #### Eversource Energy (ES)
-  Data records in Thoundsands, shares outstandings in ones.
+  Data records in Thoundsands
 <br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue , Net Income
 <br>   In order to find the Q4 EPS, EPS =  Net Income  of Q4 / diluted weighted average common shares
 <br>  For Net income, find "Net (Loss)/ Income Attributable to Common Shareholders". For total Net sales/ net revenue, find "Operating revenues"
@@ -157,16 +155,12 @@
 <br>  Total Liabilities = Total Liabilities and Capitalization - Common Shareholder's Equity
 
 #### PG&E Corp (PCG)
-  Data records in Millions, shares outstandings in ones.
 <br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue, Net Income.
 <br>   In order to find EPS, EPS =  "(Net Income - Preferred stock dividend requirement)" or "Income Available for Common Shareholders"/ diluted weighted average common shares
 <br>   For total Net sales/ net revenue, find "Total revenues"
 <br>   Total liabilities = Total current liabilities + Total noncurrent liabilities
 <br>  Total debt = Total Debt = Short-term borrowings + Long-term debt, classified as current + Operating lease liabilities (under current liabilities) + Financing lease liabilities (under current liabilities) + Long-term debt + Regulatory liabilities + Operating lease liabilities (under noncurrent liabilities) + Financing lease liabilities (under noncurrent liabilities)
-
-
 ### Industrials
-
 #### RTX Corporation (RTX)
   Data records in thousands
 <br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income
@@ -182,11 +176,11 @@
 <br>  Total debt= Current portion of long-term debt + Operating lease liabilities + Long-term debt, less current portion + Operating lease liabilities
 
 #### L3Harris Technologies Inc (LHX)
-  Data records in millions, shares outstanding in ones. L3Harris Technologies announced the successful merger completion between Harris Corporation and L3 Technologies on June 29, 2019. Therefore, the annual report of 2019 of the old company is found directly on their website.
-<br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income, EPS
-<br>  Total deb t= Short-term debt + Current portion of long-term debt, net + long-term debt, net 
+L3Harris Technologies announced the successful merger completion between Harris Corporation and L3 Technologies on June 29, 2019. Therefore, the annual report of 2019 of the old company is found directly on their website.
+<br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue (Operating Revenue), Net Income
+<br>   In order to find the Q4 EPS, EPS =  Net Income  of Q4 / diluted weighted average common shares
+<br>  Total debt= Short-term debt + Current portion of long-term debt, net + long-term debt, net 
 #### Tetra Tech Inc (TTEK)
-  Data records in thousands, shares outstanding in ones.
 <br>   For Q3 report, take the features of the annual report, minus the sum of features of Q1, Q2, of this year and Q4 of previous year. Apllied for Total Net Sales/ Net Revenue (Operating Revenue), Net Income
 <br>   In order to find the Q3 EPS, EPS =  Net Income  of Q3 / diluted weighted average common shares
 <br>   The company has stock split 5 for 1 on september 2024. Therefore in 2024 data and previous that time, shares outstanding multiply to 5, and diluted EPS divide to 5 in order to keep the consistency. Also, to calculate the EPS of Q3, before that time, we multiply  diluted weighted average common shares to 5 first then divide net income to it.
@@ -199,13 +193,59 @@ Data is taken from [Macrotrend](https://www.macrotrends.net/stocks/charts/UHAL/u
 <br>   In order to find the Q1 EPS, EPS =  Net Income  of Q1 / diluted weighted average common shares
 <br>  Amerco, the parent company of U-Haul, underwent a 10-to-1 stock split and a name change to U-Haul Holding Company starting November 2022.
 <br>  Total debt = Notes, loans and finance leases payable, net + Operating lease liabilities
+### Real Estate
+#### Prologis, Inc (PLD)
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue, Net Income
+<br>   Calculate EPS: First, find the net earnings attributable to common holders. Net earnings attributable to common holders = net earnings attributable to controlling interests - Less preferred stock dividends. In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
+<br> Data is based on Yahoo Finance. Total current liabilities = Accounts payable and accrued expenses + Deferred revenue and fees+ liabilities associated with assets held for sale or contribution + value added taxes payable + Credit facilities and commercial paper + unearned rents. For Net income, find "Net earnings attributable to controlling interests.  Total current asset = 
+Cash and cash equivalents + Accounts receivable + Other notes receivable + Value added taxes receivable (in total other assets) + prepaid assets + Net investments in real estate
+#### American Tower Corporation (AMT)
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue, Net Income. For Net income, find "Net earnings(loss) income attributable to American tower corporation common stockholders. For Net Sales, find "Total operating revenue".
+<br>   Calculate EPS: First, find the net earnings attributable to common holders. Net earnings attributable to common holders = net earnings attributable to controlling interests - Less preferred stock dividends. In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
+<br>  Total debt = long-term obligations + operating lease liabilitiy + current portion of operating lease liabilitity + Current portion of long-term obligations
+#### Extra Space Storage Inc. (EXR)
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue, Net Income. For Net income, find "Net income attributable to common stockholders." 
+<br>   Calculate EPS:  In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
+<br> Data is based on Yahoo Finance. Total current liabilities = Payables And accured Equity 
+ (Accounts payable and accrued expenses +Cash distributions in unconsolidated real estate ventures)  + Current debt and capital (Revolving lines of credit). Total current asset = 
+Cash and Cash equivalents + accounts receivable +Notes Receivable +Restricted Cash + Prepaid Assets (Other intangible assets, net) + other receivables (Other intangible assets, net)
+<br>  Total debt = long-term obligations + operating lease liabilitiy + current portion of operating lease liabilitity + Current portion of long-term obligations
+#### Kimco Realty Corporation (KIM)
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue, Net Income. For Net income, find "Net income attributable to the Company." In order to calculate the EPS, EPS = (Net income attributable to the Company - Preferred dividends) / weighted average shares or EPS = net income available to the Company's common share holders / weighted average shares (Diluted)
+<br> Data is based on Yahoo Finance. Total current liabilities = Total Current liabilities = Accounts payable and accrued expenses + dividends payable. Total Current Assets = Cash, cash equivalents and restricted cash + Marketable securities + Accounts and notes receivable, net 
+<br>  total debt = Notes Payable, net + Mortgages payable, net + Operating lease liabilities (yahoo Finance)
+#### SL Green Realty Corp. (SLG)
+<br>   For 4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3 of this year. Apllied for Total Net sales/ Net Revenue, Net Income. For Net income, find "Net income (loss)." 
+<br>   In order to calculate the EPS, EPS = Net income (loss) attributable to SL Green common Stockholders / Diluted weighted average common shares and common share equivalents outstanding
+<br> Data is based on Yahoo Finance. Total current Liabilities = Revolving credit facility, net + Accrued interest payable + Accounts payable and accrued expenses + Deferred revenue + Dividend and distributions payable. Total current asset = Assets held for sale + Cash and Cash equivalents + restricted cash + Investments in marketable securities + tenant and other receivables + Related party receivables + Deferred rents receivable + Real estate loans held by consolidated securitization vehicles 
+<br> Total debt = Mortgages and other loans payable, net + Revolving credit facility, net + Unsecured term loans, net+ Unsecured notes, net + Senior obligations of consolidated securitization vehicles + Lease liability + Junior subordinated deferrable interest debentures held by trusts that issued trust preferred securities
+### Ultities
+#### JPMorgan Chase & Co. (JPM)
+  Data records in Thoundsands.
+<br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year. Total Current Liabilities, total current asset from website Macrotrends.
+<br>   EPS found directly in the report
+<br>  cash and cash Equivalents = "Cash and due from banks" + "Deposit with banks"
+<br> total debt = long-term debt + short-term borrowing
+#### Morgan Stanley (MS)
+  Data records in Thoundsands.
+<br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year. Net Income, look for "Net income applicable to Morgan Stanley". Total Current Liabilities, total current asset from website Macrotrends
+<br>  in order to find EPS Q4, take the Earnings applicable to Morgan Stanley common shareholders of Q4 / average common shares outstanding
+<br> total debt = long-term debt + short-term borrowing
+#### Morgan Stanley (MS)
+  Data records in Thoundsands.
+<br>   For Q4 report, take the features of the annual report, minus the sum of features of Q1, Q2, Q3 of this year. Net Income, look for "Net income applicable to Morgan Stanley". Total Current Liabilities, total current asset from website Macrotrends
+<br>  in order to find EPS Q4, take the Earnings applicable to Morgan Stanley common shareholders of Q4 / average common shares outstanding
+<br> total debt = long-term debt + short-term borrowing
+#### Visa Inc. (V)
+<br> For Q4 of every year, Net Sales/Total Revenue, Net Income are calcualted as follows Annual - (Q1 + Q2+ Q3)
+<br> Net Income /( Diluted Weighted-average Shares Outstanding of Class A + Class B + Class C)
 ### Information Technology
 #### Apple (AAPL)
 <br> Apple's Fiscal year starts from October and ends in September
 <br> For Q4 of every year, Net Sales/Total Revenue, Net Income are calcualted as follows Annual - (Q1 + Q2+ Q3)
 <br> EPS for Q4 is calculated as Net Income of Q4/ Shares used in computing earnings per share (Diluted)
 <br> 4-1 stock split happened in Q4 2020. In order to maintain consistency, the previous quarter's shares outstanding ahve been multipled by 4 and EPS is divided by 4.
-<br> Total Debt = Commercial Paper + Term Debt (Current Liabilities) + Term Debt (Non-current Liabilities)
+<br> Total debt = Secured notes payables, net + Unsecured term loans, net + Unsecured senior notes, net + Operating lease liabilities + Revolving lines of credit
 
 #### Service Now (NOW)
 <br> Fiscal year starts from January and ends in December.
