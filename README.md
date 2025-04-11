@@ -1,5 +1,5 @@
 # About Project
-THis project applied Self-Organizing Map (SOM) model, providing one more method, a additional method before applying Mean Variance model to conclude the selection of the stocks. After applying SOM model, we narrow down from 46 to 36 for average feature of companies from 2018 until now. After that, we applied SOM model for quarter data of companies's feature with different dimensions: 5x5 and 7x7. The 5x5 grid size results giving 21 companies, and 7x7 size results giving 10 companies. We applied Mean Variance for 21 companies annd 10 companies, which can show comapnies that we should invest.
+ This project applies the Self-Organizing Map (SOM) model as an additional method to assist in stock selection prior to applying the Mean-Variance model. Initially, we used the SOM model on the average features of 46 companies from 2018 to the present, narrowing the selection down to 36 companies. Then, we applied the SOM model again using quarterly data with two different grid dimensions: 5×5 and 7×7. The 5×5 SOM grid resulted in a selection of 21 companies, while the 7×7 grid reduced the list further to 10 companies. Finally, we applied the Mean-Variance model to both the 21- and 10-company selections to identify the most promising investment options.
 # Stock
 ### Consumer Discretionery
 #### Home Depot
