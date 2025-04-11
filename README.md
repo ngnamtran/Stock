@@ -1,15 +1,17 @@
+# About Project
+THis project applied Self-Organizing Map (SOM) model, providing one more method, a additional method before applying Mean Variance model to conclude the selection of the stocks. After applying SOM model, we narrow down from 46 to 36 for average feature of companies from 2018 until now. After that, we applied SOM model for quarter data of companies's feature with different dimensions: 5x5 and 7x7. The 5x5 grid size results giving 21 companies, and 7x7 size results giving 10 companies. We applied Mean Variance for 21 companies annd 10 companies, which can show comapnies that we should invest.
 # Stock
 ### Consumer Discretionery
 #### Home Depot
  Data records in Thoundsands.
-<br>  For Q4 report, take the features of annual report , minus to the sum of features of Q1, Q2, Q3
+<br>  For Q4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3
 <br>    Apllied for Net sales/ Net Revenue, Net Income
 <br>   In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
 <br>  Total debt =  short-term debt + Current installments of long-term debt + current operating lease liabilities + long-term debt + long-term operating lease liabilities
 
 #### Wayfair (W)
  Data records in thousands.
-<br>  For Q4 report, take the features of annual report , minus to the sum of features of Q1, Q2, Q3
+<br>  For Q4 report, take the features of annual report, minus to the sum of features of Q1, Q2, Q3
 <br>    Apllied for Total Net sales/ Net Revenue, Net Income
 <br>   In order to find the Q4 EPS, EPS =  Net Income (net earnings) of Q4 / diluted weighted average common shares
 <br>  Total debt = "long-term debt" + "Operating lease liabilities, net of current"
