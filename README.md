@@ -1,6 +1,9 @@
 # Overview
-This project applies the Self-Organizing Map (SOM) model as an additional method to assist in stock selection prior to applying the Mean-Variance Portfolio Optimization. Initially, we used the SOM model on the average features of 46 companies from 2018 to the present, narrowing the selection down to 36 companies. Then, we applied the SOM model again using quarterly data with two different grid dimensions: 5×5 and 7×7. The 5×5 SOM grid resulted in a selection of 21 companies, while the 7×7 grid reduced the list further to 10 companies. Finally, we applied the Mean-Variance Optimization to both the 21- and 10-company selections to identify the most promising investment options. In this project, we implement SOM using MATLAB [Deep Learning Toolbox&trade;](https://www.mathworks.com/products/deep-learning.html) and [Financial Toolbox&trade;](https://www.mathworks.com/products/finance.html).
+This project shows how to apply the Self-Organizing Map (SOM) model as an additional method to assist in stock selection prior to applying the Mean-Variance Portfolio Optimization.  In this project, we implement SOM using MATLAB [Deep Learning Toolbox&trade;](https://www.mathworks.com/products/deep-learning.html) and [Financial Toolbox&trade;](https://www.mathworks.com/products/finance.html).
 # Import and Preprocess Data
+
+# Implementation
+Initially, we used the SOM model on the average features of 46 companies from 2018 to the present, narrowing the selection down to 36 companies. Then, we applied the SOM model again using quarterly data with two different grid dimensions: 5×5 and 7×7. The 5×5 SOM grid resulted in a selection of 21 companies, while the 7×7 grid reduced the list further to 10 companies. Finally, we applied the Mean-Variance Optimization to both the 21- and 10-company selections to identify the most promising investment options.
 
 # Define Network Architecture and Training Options
 
