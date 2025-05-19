@@ -10,6 +10,7 @@ Initially, we used the SOM model on the average features of 46 companies from 20
 
 # Reference
 # Stock
+All companies data, use the Updated folder
 ### Consumer Discretionery
 #### Home Depot
  Data records in Thoundsands.
